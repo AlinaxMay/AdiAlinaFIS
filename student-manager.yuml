@@ -1,0 +1,17 @@
+[Student]-(View events)
+[Student]-(View grades)
+(View events) > (Student Sign in)
+(View grades) > (Student Sign in)
+(Student Sign in) < (Invalid credentials)
+
+[Teacher]-(View Students)
+[Teacher]-(Add Student)
+[Teacher]-(Add grades)
+(View Students) > (Teacher Sign in)
+(Add Student) > (Teacher Sign in)
+(Add grades) > (Teacher Sign in)
+(Add Student) < (Student Already Added)
+
+[Admin]-(Create Account)
+[Admin]-(Add Subject)
+(Create Account)<(Account already created)
