@@ -1,9 +1,0 @@
-[Student]-(View events)
-[Student]-(View grades)
-(View events) > (Student Sign in)
-(View grades) > (Student Sign in)
-(Student Sign in) < (Invalid credentials)
-
-[Teacher]-(View Student)
-[Teacher]-(Add Student)
-
