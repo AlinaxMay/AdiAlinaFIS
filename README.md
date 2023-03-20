@@ -1,4 +1,5 @@
 # AdiAlinaFIS
+<<<<<<< HEAD
 # **Student Manager Application**
 ## _Introduction_
 This application is an exercise for the FIS laboratory. You can
@@ -20,3 +21,8 @@ need to use the ID's of the User Stories created there in your
 commit messages.
 ## _Happy Coding_
 Have a nice time implementing the project!
+=======
+fis
+NU EU VREAU ALT
+
+>>>>>>> d42fe607c18838c7f3b592b42ce79255c56eec09
